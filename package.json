@@ -1,0 +1,36 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "This is my first Express App",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alunyapatrick2022/Express-App.git"
+  },
+  "keywords": [
+    "Patrick",
+    "Alunya",
+    "Express",
+    "Application",
+    "using",
+    "express.js",
+    "and",
+    "html",
+    "and",
+    "css"
+  ],
+  "author": "alunyaptrick2022\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Da\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alunyapatrick2022/Express-App/issues"
+  },
+  "homepage": "https://github.com/alunyapatrick2022/Express-App#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
